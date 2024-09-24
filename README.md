@@ -2,9 +2,10 @@
 <h3 align="center">I am  passionate about Machine Learning and competitive programming </h3>
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rklearns&label=Profile%20views&color=0e75b6&style=flat" alt="rklearns" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rklearns" alt="rklearns" /></a> </p>
+
 
 - 🌱 I’m currently learning **Skicit Learn,Regression,Probability**
 
